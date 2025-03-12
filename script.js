@@ -70,7 +70,7 @@ const computerSelection = getcomputerSelection();
             container.appendChild(output); 
             humanScore++;
         }
-        else if(humanSelection === "paper" && computerSelection === "rock")
+        else if(humanSelection === "rock" && computerSelection === "paper")
         { 
             const output = document.createElement("div");
             output.classList.add("output");
