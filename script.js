@@ -12,17 +12,11 @@ container.appendChild(content);
 // const button=document.querySelectorAll("button");
 // const buttonOne = document.querySelector("#one");
 // buttonOne.addEventListener("click", gethumanSelection);
-
-
 // const buttonTwo = document.querySelector("#two");
 // buttonTwo.addEventListener("click", getcomputerSelection);
 
-
 const buttonThree = document.querySelector("#three");
 buttonThree.addEventListener("click", playGame);
-
-
-
 
 //Function to play game
   
